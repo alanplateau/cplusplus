@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1529714811 source:c:\users\pleteau\documents\代码\高源的课程设计\main.cpp
+	<iostream>
+	"courlist.h"
+	"stulist.h"
+	"manager.h"
+	<fstream>
+
+1529676798 source:c:\users\pleteau\documents\代码\高源的课程设计\src\course.cpp
+	"course.h"
+	<iostream>
+
+1529676798 c:\users\pleteau\documents\代码\高源的课程设计\include\course.h
+	<string>
+
+1529715502 source:c:\users\pleteau\documents\代码\高源的课程设计\src\student.cpp
+	"student.h"
+	"courlist.h"
+	<iostream>
+
+1529715502 c:\users\pleteau\documents\代码\高源的课程设计\include\student.h
+	<string>
+
+1529714841 source:c:\users\pleteau\documents\代码\高源的课程设计\src\stulist.cpp
+	"stulist.h"
+	"student.h"
+	<iostream>
+	<fstream>
+
+1529714811 c:\users\pleteau\documents\代码\高源的课程设计\include\stulist.h
+	"student.h"
+
+1529671016 source:c:\users\pleteau\documents\代码\高源的课程设计\src\courlist.cpp
+	"courlist.h"
+	<iostream>
+	<fstream>
+
+1529671008 c:\users\pleteau\documents\代码\高源的课程设计\include\courlist.h
+	"course.h"
+
+1529675757 source:c:\users\pleteau\documents\代码\高源的课程设计\src\manager.cpp
+	"manager.h"
+	"string"
+	<iostream>
+
+1529675715 c:\users\pleteau\documents\代码\高源的课程设计\include\manager.h
+	<string>
+
+1529715661 source:c:\users\13345\documents\mycodes\高源的课程设计\main.cpp
+	<iostream>
+	"courlist.h"
+	"stulist.h"
+	"manager.h"
+	<fstream>
+
+1529671008 c:\users\13345\documents\mycodes\高源的课程设计\include\courlist.h
+	"course.h"
+
+1529676798 c:\users\13345\documents\mycodes\高源的课程设计\include\course.h
+	<string>
+
+1529714811 c:\users\13345\documents\mycodes\高源的课程设计\include\stulist.h
+	"student.h"
+
+1529715502 c:\users\13345\documents\mycodes\高源的课程设计\include\student.h
+	<string>
+
+1529675715 c:\users\13345\documents\mycodes\高源的课程设计\include\manager.h
+	<string>
+
+1529671016 source:c:\users\13345\documents\mycodes\高源的课程设计\src\courlist.cpp
+	"courlist.h"
+	<iostream>
+	<fstream>
+
+1529676798 source:c:\users\13345\documents\mycodes\高源的课程设计\src\course.cpp
+	"course.h"
+	<iostream>
+
+1529675757 source:c:\users\13345\documents\mycodes\高源的课程设计\src\manager.cpp
+	"manager.h"
+	"string"
+	<iostream>
+
+1529715502 source:c:\users\13345\documents\mycodes\高源的课程设计\src\student.cpp
+	"student.h"
+	"courlist.h"
+	<iostream>
+
+1529714841 source:c:\users\13345\documents\mycodes\高源的课程设计\src\stulist.cpp
+	"stulist.h"
+	"student.h"
+	<iostream>
+	<fstream>
+
